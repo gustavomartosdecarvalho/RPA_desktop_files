@@ -1,0 +1,5 @@
+[20210325 07:49] Liberation of the channel 
+[20210325 08:47] Opening channel list  
+[20210326 02:15] Channel online
+[20210326 04:32] Fail Process
+[20210326 04:37] ABORTED

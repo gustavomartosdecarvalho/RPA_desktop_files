@@ -1,0 +1,10 @@
+Report list from Team A
+
+Last run date: 20210402
+Origin file: //br1502la5107/Prod intern/colection list/ Team A
+
+ParamPI3d25: S043kXC
+ParamPIAx94: 5148
+
+ParamGNR: 202103
+ReturnGNR: the system processed 7015 reports finding 341 divergences

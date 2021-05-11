@@ -1,0 +1,7 @@
+[20210329 07:55] Liberation of the channel 
+[20210329 08:34] Opening channel list  
+[20210330 01:31] Channel online
+[20210330 01:34] Receive mode on
+[20210330 14:22] Status Ok
+[20210331 11:43] Status Ok
+[20210331 18:08] Status Ok
